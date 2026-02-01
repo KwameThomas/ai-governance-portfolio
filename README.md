@@ -1,4 +1,9 @@
-# ai-governance-portfolio
-Responsible AI &amp; AI Governance portfolio focused on regulated and public-interest domains
-real-estate-ai-governance/Kwame_Thomas_Responsible_AI_Governance_Real_Estate_NC_FINAL.pptx
-real-estate-ai-governance/Kwame_Thomas_Responsible_AI_Governance_Real_Estate_NC_FINAL.pptx
+# Responsible AI & AI Governance Portfolio
+## Kwame Thomas | Responsible AI & Governance
+
+This repository contains executive-level AI Governance projects focused on
+regulated, high-risk, and public-interest domains.
+
+Each project demonstrates how Responsible AI is operationalized through
+risk assessment, governance frameworks, human accountability, and compliance
+alignment.
